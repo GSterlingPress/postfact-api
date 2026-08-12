@@ -1,0 +1,13 @@
+{
+  "name": "postfact-api",
+  "version": "0.1.0",
+  "description": "Ambiguous outcome resolution for machine side effects",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
