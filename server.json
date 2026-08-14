@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.GSterlingPress/postfact",
   "title": "POSTFACT — Resolve Ambiguous Side Effects Before Retry",
-  "description": "Determine whether a side-effecting API or tool action actually completed after an ambiguous failure. Returns DONE only with affirmative completion evidence, NOT_DONE only with affirmative non-execution evidence, otherwise UNKNOWN. Call before retrying uncertain writes.",
+  "description": "Resolve whether an uncertain side-effecting action completed before software retries it.",
   "version": "0.1.0",
   "websiteUrl": "https://postfact-api-production.up.railway.app",
   "repository": {
