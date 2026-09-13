@@ -3,7 +3,7 @@
   "name": "io.github.GSterlingPress/postfact",
   "title": "POSTFACT — Resolve Ambiguous Side Effects Before Retry",
   "description": "Resolve whether an uncertain side-effecting action completed before software retries it.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://postfact-api-production.up.railway.app",
   "repository": {
     "url": "https://github.com/GSterlingPress/postfact-api",
